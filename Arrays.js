@@ -92,8 +92,8 @@ const unsorted = [5, 2, 10, 7, 3, 1];
 unsorted.sort((a, b) => b - a);
 console.log(unsorted);
 
-// findIndexO
+// findIndex
 
-const index = arr.findIndex((item) => item === 2);
+const index = arr.findIndex((item) => item === 2); //return index of the item
 
 //.include check wheather the element is present or not
